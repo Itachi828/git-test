@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("ssh push git test");
         System.out.println("ssh pull git test");
         System.out.println("Ideal 冲突测试 git test");
+        System.out.println("github 冲突测试 git test");
     }
 }
